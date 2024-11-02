@@ -1,7 +1,7 @@
 ## Hi there 👋
 
--- I'm currently studying in 9th grade
--- I'm cuurently learning about programming
+- I'm currently studying in 9th grade
+- I'm cuurently learning about programming
 
 
 <!--
