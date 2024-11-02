@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+-- I'm currently studying in 9th grade
+-- I'm cuurently learning about programming
+
+
 <!--
 **DEVAN1220/DEVAN1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
